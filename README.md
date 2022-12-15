@@ -1,5 +1,6 @@
 # About
-This project is about collecting data from logs and filling it in an excel table. It was a commercial development. A client gave me a lot of logs and I needed to calculate time that each operation in programm takes. During development, I have learned a very useful technology - regular expressions. It helped me a lot with collecting information from *.txt files that a the client sent me.
+This project is about collecting data from logs and filling it in an excel table. It was a commercial development. A client gave me a lot of logs and I needed to calculate time that each operation in programm takes.
+Technologies: Openpyxl, Python, Regular expressions
 
 # Examples
 ## From
